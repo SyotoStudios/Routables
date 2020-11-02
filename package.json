@@ -1,0 +1,9 @@
+{
+    "name": "com.syotostudios.routables",
+    "version": "1.0.0",
+    "displayName": "Routables",
+    "description": "Map resourses to URL-like paths and retrieve them later with the URL.",
+    "unity": "2020.1",
+    "type": "library",
+    "hideInEditor": false
+  }
